@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "El Espectador",
-    image: "./prochad.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/prochad.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Consúl Generál de la Feminología and Graduate in free-time management (UBA)",
     bio: "Intelectual de Miller\n Gordo en situación de Android",
     email: "ricardo.klement@gmail.com",
